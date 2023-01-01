@@ -24,7 +24,6 @@ import com.google.android.gms.location.LocationServices;
 
 public class MainActivity2 extends AppCompatActivity {
 
-
     private static final int MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 1;
     private static final int REQUEST_PERMISSIONS_CODE = 1;
 
